@@ -59,7 +59,7 @@
     * Are unavailable for playoffs
     * Have an active ban from MLTP
 3. Restrictions from majors and minors will be made for players that list that they are unavailable to play on the default game day (Sunday and Monday respectively).
-4. Position restrictions will be made for players that list that they will play only one position ("Offense only" or "Defense only").
+4. Positions noted in signups will not be enforced. Players are expected to play whichever position their GM assigns them.
 5. Player comments about availability may be used to restrict a player's total allowed minutes for a season.
     * Minute restrictions will be published by the CRC before the draft begins.
 
@@ -83,19 +83,18 @@
     * No cap limit
     * User scripts disabled
     * Respawn warnings disabled
-2. The server will default to Dallas, TX, except if the following is true:
-    * GMs may declare their team to be an "Eastern team" before Week 1 games are played. This declaration cannot be reversed.
-    * If two "Eastern teams" play against each other during the regular season, the match will default to an ABBA server split on each team's declared home server.
+2. The server will default to Dallas, TX.
     * Dallas-2 should only be used in the event that the primary Dallas server is unavailable or experiencing significant connectivity issues. 
 
 ## Article III - Rosters
 
 ### Section 1 - Rosters
 1. Each franchise will have a roster of 8 players. Four of which will be designated as "Majors" and four for "Minors".
-2. If a player is dropped from a team due to gross inactivity they will be ineligible to join any MLTP team except the one they were dropped from.
+2. If a player is dropped from a team due to 
+inactivity they will be ineligible to join any MLTP team except the one they were dropped from.
     * Gross inactivity includes not showing up to games, practices, as well as not returning messages from team members and commissioners.
     * Declaring an intention to quit MLTP or TagPro will also allow a GM to designate the drop as Gross Inactivity.
-    * Players may their appeal gross inactivity status to the CRC.
+    * Players may appeal their gross inactivity status to the CRC.
 3. GMs can complete roster transactions using the Roster Form.
    * The Roster Form is used for call ups, drops, bids, and loans.
    
@@ -106,7 +105,7 @@
    * Any player loaned by the franchise is eligible to play Majors that week. A loaned player can only participate in one Majors match per week.
    * Any player who submitted their signup as unavailable on Sunday is ineligible.
 3. Minors Eligibility:
-   * Any player on the franchise's roster is eligible to play Minors each week EXCEPT for (1) players who played greater than twenty (20) minutes in Majors (does not include overtime) or (2) are in the top four of their franchise for minutes played in Majors after Week 3. In the event that two players have equal numbers of minutes played, the GM must designate one as ineligible for Minors for a total of four ineligible players. 
+   * Any player on the franchise's roster is eligible to play Minors each week EXCEPT for (1) players who played greater than twenty (20) minutes in Majors (in a week, does not include overtime) or (2) are in the top four of their franchise for minutes played in Majors after Week 2. In the event that two players have equal numbers of minutes played, the GM must designate one as ineligible for Minors for a total of four ineligible players. 
    * GMs can ask for a waiver from the CRC in the event that a Majors player in unvailable for a week and require a Minors player to participate in both matches. Additionally, a GM can request a waiver to permanently switch the eligibilities of players before the end of the season however this can not be undone if granted.
    * Any player loaned by the franchise is eligible to play Minors that week. A loaned player can only participate in one Minors match per week. The twenty minute  rule applies to loaned players as well.
    * Any player who submitted their signup as unavailable on Monday is ineligible.
@@ -144,14 +143,14 @@
     * The Minors Auction Draft will continue until every franchise has a total of 8 players.
 3. For both Auction Drafts each franchise will be allocated 200 TagCoins (TC) to bid on players with. These TC will not carryover between drafts or into the season.
 4. If a player is nominated, the nominating captain is not required to bid on that player.
-5. The nomination order will be randomized prior to the start of the draft. The nomination order will snake, going from 1-8, 8-1, 1-8, and finally 8-1 for the final round of nominations. If a team has already reached its maximum roster limit, then their nomination will be skipped.
-6. There is no maximum bid. The minimum bid is 0. 
+5. The nomination order will be randomized prior to the start of the draft. The nomination order will repeat for each round (1 to 8) until there are only teams remaining with one open roster spot. At this point the nomination order will switch to 
+6. In the event that a bid reaches 200, any franchise that wishes to also bid 200 must immediately inform a CRC member. Of these teams, the winner will be randomly chosen using a wheel spin. The minimum bid is 0. 
 
 ## Article V - Matches
 
 ### Section 1 - Basics
 1. Teams will play 1 match per week. 
-2. For each game teams will default to Dallas, TX with the exception of two "Eastern Teams" as defined in Article II. 
+2. For each game teams will default to Dallas, TX. 
 3. In the event of a tie after two halves, an overtime period will be played.
     * The default overtime format will be a 10 minute period, split into 5 minute halves. These periods will be played until a winner is found. 
     * Captains may mutually agree to use a "Golden Cap" format. These agreements can happen before any 10 minute overtime period starts.
