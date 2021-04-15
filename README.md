@@ -129,7 +129,7 @@
 4. mLTP teams can add players from NLTP, players dropped by other mLTP teams, or the pool of players with Monday availability who were not drafted to Minors and are not playing in another league.
    * mLTP teams will draft DEP rights to players which function as mentioned above for MLTP teams.
 5. Teams must use the transaction form to complete the transaction. It becomes official when posted to #mltp-announcements.
-6. Players who have been dropped from another team's roster must be dropped 48 hours be roster transactions locks (12PM Eastern on Sunday) to be eligible to be added for the upcoming week's matches.
+6. Players who have been dropped from another team's roster must be dropped 48 hours before roster transactions lock (12PM Eastern on Sunday) to be eligible to be added for the upcoming week's matches.
 
 ### Section 6 - MLTP Drops
 1. Players who are dropped from MLTP rosters can be added to a mLTP roster after Week 3 or Week 4 (before the deadline).
